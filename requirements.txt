@@ -3,7 +3,7 @@ Django==2.2.5
 djangorestframework==3.10.3
 PyMySQL==0.9.3
 line-bot-sdk==1.5.0
-gunicorn==19.3.0
+gunicorn==19.5.0
 jieba==0.39
 gensim==3.8.0
 six==1.12.0
