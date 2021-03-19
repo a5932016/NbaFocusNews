@@ -1,6 +1,6 @@
 dj_static==0.0.6
 Django==2.2.5
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 PyMySQL==0.9.3
 line-bot-sdk==1.5.0
 gunicorn==19.3.0
