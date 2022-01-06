@@ -12,7 +12,7 @@ redis==3.3.8
 django-redis-cache==2.1.0
 bootstrap4==0.1.0
 Scrapy==1.7.3
-celery==4.3.0
+celery==5.2.2
 django-bootstrap4==1.0.1
 django-crontab==0.7.1
 django-redis==4.10.0
